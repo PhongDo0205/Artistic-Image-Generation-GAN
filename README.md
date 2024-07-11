@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # INSTALL
 <br>**Python instalation**
 <br>`python -m pip install requirements.txt`</br>
@@ -17,4 +16,3 @@
 
 =======
 # KHMT_2020604284_DoTrungPhong
->>>>>>> 75c5896808b8280b1a387ef07e4f585114530efe
